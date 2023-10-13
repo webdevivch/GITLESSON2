@@ -1,15 +1,13 @@
-**cd** - Переместиться внутрь папки
+**text branch555555** - qwerty
 
-**cd ..** - Переместиться из папки
+**text branch555555** - qwerty
 
-**mkdir** - Создать новую папку
+**text branch555555** - qwerty
 
-**ls** - Просмотреть список файлов в папке
+**text branch555555** - qwerty
 
-**new-item** - Создать новый файл
+**text branch555555** - qwerty
 
-**git branch** - Проверить список существующих веток
 
-**git branch branch_name** - Создать ветку с названием branch_name
 
-**git checkout -b branch_name** - 
+
