@@ -12,7 +12,4 @@
 
 **git branch branch_name** - Создать ветку с названием branch_name
 
-
-**git branch** - Проверить список существующих веток
-
-**git branch branch_name** - Создать ветку с названием branch_name
+**git checkout -b branch_name** - 
