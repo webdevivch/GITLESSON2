@@ -1,26 +1,36 @@
+<<<<<<<<< Temporary merge branch 1
 **cd** - Переместиться внутрь папки
 
-**text branch555555** - qwerty
+**cd ..** - Переместиться из папки
 
-**text branch555555** - qwerty
+**mkdir** - Создать новую папку
 
-**text branch555555** - qwerty
+**ls** - Просмотреть список файлов в папке
 
-**text branch555555** - qwerty
+**new-item** - Создать новый файл
 
+**git branch** - Проверить список существующих веток
 
-
-=======
-**123456789** - branch1
-
-**123456789** - branch1
-
-**123456789** - branch1
-
-**123456789** - branch1
-
-**123456789** - branch1
-
-**123456789** - branch1
+**git branch branch_name** - Создать ветку с названием branch_name
 
 **git checkout -b branch_name** - 
+=========
+**123456789** - branch1
+
+**123456789** -fdgdgfdsgdfggdfg
+
+**123456789** -fdgdgfdsgdfggdfg
+
+**123456789** - branch1
+
+**123456789** - branch1
+
+**123456789** - branch1
+
+**123456789** - branch1
+
+**123456789** - branch1
+
+**123456789** - branch1
+
+>>>>>>>>> Temporary merge branch 2
