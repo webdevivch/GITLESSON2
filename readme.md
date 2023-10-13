@@ -1,15 +1,11 @@
-**cd** - Переместиться внутрь папки
+**0987654321** - dfgdfgdfgdfgdgdggdgdgertyrhjnghb
 
-**cd ..** - Переместиться из папки
+**0987654321** - dfgdfgdfgdfgdgdggdgdgertyrhjnghb
 
-**mkdir** - Создать новую папку
+**0987654321** - dfgdfgdfgdfgdgdggdgdgertyrhjnghb
 
-**ls** - Просмотреть список файлов в папке
+**0987654321** - dfgdfgdfgdfgdgdggdgdgertyrhjnghb
 
-**new-item** - Создать новый файл
+**0987654321** - dfgdfgdfgdfgdgdggdgdgertyrhjnghb
 
-**git branch** - Проверить список существующих веток
-
-**git branch branch_name** - Создать ветку с названием branch_name
-
-**git checkout -b branch_name** - 
+**0987654321** - dfgdfgdfgdfgdgdggdgdgertyrhjnghb
