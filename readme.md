@@ -1,7 +1,15 @@
-**123456789** -fdgdgfdsgdfggdfg
+**cd** - Переместиться внутрь папки
 
-**123456789** -fdgdgfdsgdfggdfg
+**cd ..** - Переместиться из папки
 
-**123456789** -fdgdgfdsgdfggdfg
+**mkdir** - Создать новую папку
 
-**123456789** -fdgdgfdsgdfggdfg
+**ls** - Просмотреть список файлов в папке
+
+**new-item** - Создать новый файл
+
+**git branch** - Проверить список существующих веток
+
+**git branch branch_name** - Создать ветку с названием branch_name
+
+**git checkout -b branch_name** - 
